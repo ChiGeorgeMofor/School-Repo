@@ -1,0 +1,11 @@
+Start
+define age = 18
+define hasLicence = true
+
+if age >= 16 then
+    if hasLicence
+        print "You can drive."
+    else
+        print "You must have a license to drive."
+    else
+End
