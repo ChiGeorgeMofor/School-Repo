@@ -1,0 +1,6 @@
+Start
+
+for counter = 1 to 10 increment by 2
+    print counter
+
+End 
