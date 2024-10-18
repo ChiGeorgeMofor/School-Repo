@@ -1,0 +1,8 @@
+Start
+define age = 18
+define hasLicence = true
+
+if age >= 16 AND hasLicence = true then
+    print "You can drive"
+
+End>f
