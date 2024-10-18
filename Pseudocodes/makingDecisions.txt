@@ -1,0 +1,12 @@
+define num1, num2, answer
+input num1 = "Please enter the first number:"
+input num2 = "Please enter the second number:"
+
+If num1 > num2 then
+    print "Number 1 is bigger."
+else
+    print "Number 2 is bigger or the same size."
+else
+    print "You must be 16 or older to have a license"
+
+End
