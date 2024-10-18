@@ -1,0 +1,11 @@
+Start 
+define runningTotal = 0
+define enteredNum = 0
+
+while enteredNum >= 0
+    runningTotal += enteredNum
+    prompt enteredNum = "Please enter a number, Enter -1 to exit."
+
+print "The total is: " + runningTotalf
+ 
+End
