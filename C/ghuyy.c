@@ -7,7 +7,7 @@ void sum(int arr[], int n) {
         sum += arr[i];
     }
 float average = (float)sum/ n;
-
+ 
     printf("Sum: %d\n", sum);
     printf("Average: %.2f\n", average);
 }
