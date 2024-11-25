@@ -4,7 +4,7 @@ int main() {
     int N;
 
     // Ask the user to enter a value for N
-    printf("Enter a value for N:"); 
+    printf("Enter a value for N:");  
     scanf("%d", &N);
 
     // Loop through rows from 1 to N
