@@ -1,13 +1,13 @@
 #include <stdio.h>
 
 int main() {
-    int base, height;
+    int base, height; 
 
     while (1) {
         printf("Enter the base of the triangle (positive integer): ");
         scanf("%d", &base);
         printf("Enter the height of the triangle (positive integer): ");
-        scanf("%d", &height); 
+        scanf("%d", &height);  
 
         if (base > 0 && height > 0) {
             for (int i = 1; i <= height; i++) {
