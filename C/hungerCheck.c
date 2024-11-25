@@ -6,7 +6,7 @@ int main(){
 
     while (1){
         printf("Are you hungry? ");
-        scanf("%s", hun);
+        scanf("%s", hun); 
 
         if (strcmp(hun, "no") == 0){
             printf("I am happy you are not hungry. \n");
