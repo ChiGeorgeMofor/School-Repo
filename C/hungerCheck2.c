@@ -6,7 +6,7 @@ int main(){
 
     while(Ans == "Y"){
         printf("Are you happy? enter Y for Yes and N for No \n");
-        scanf("%c", &Ans);
+        scanf("%c", &Ans); 
     }
     printf("I'm Happpy you are not happy");
 
