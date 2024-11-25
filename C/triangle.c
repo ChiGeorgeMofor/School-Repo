@@ -11,7 +11,7 @@ int main() {
 
         if (base > 0 && height > 0) {
             for (int i = 1; i <= height; i++) {
-                for (int j = 1; j <= base; j++) {
+                for (int j = 1; j <= base; j++) { 
                     if (j <= i) {
                         printf("* ");
                     }
