@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 int main(){
-    int scr;
+    int scr; 
     printf("Enter you Score:\n");
     scanf("%D", &scr);
 
