@@ -3,7 +3,7 @@
 
 int main(){
     char hun;
-
+ 
     while (1){
         printf("Are you hungry? ");
         scanf("%s", hun); 
