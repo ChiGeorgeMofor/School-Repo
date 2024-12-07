@@ -5,6 +5,6 @@ int main(){
     printf("Enter you Score:\n");
     scanf("%D", &scr);
 
-    
+     
 
 }
