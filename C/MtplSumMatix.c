@@ -6,7 +6,7 @@ void inputMatrix(int rows, int cols, int matrix[10][10]) {
         for (int j = 0; j < cols; j++) {
             printf("Element [%d][%d]: ", i + 1, j + 1);
             scanf("%d", &matrix[i][j]);
-        }
+        } 
     }
 }
 
