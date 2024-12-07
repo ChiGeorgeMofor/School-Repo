@@ -3,7 +3,7 @@
 int main() {
     int N;
 
-    // Ask the user to enter a value for N
+    // Ask the user to enter a value for N 
     printf("Enter a value for N:");  
     scanf("%d", &N);
 
