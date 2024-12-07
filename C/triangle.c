@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int main() { 
     int base, height; 
 
     while (1) {
