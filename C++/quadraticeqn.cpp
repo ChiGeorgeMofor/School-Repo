@@ -1,7 +1,7 @@
 #include <iostream>
 #include <math.h>
 using namespace std;
-
+ 
 void linear(float a, float b) {
     if (a == 0) {
         if (b == 0)
