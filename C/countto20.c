@@ -12,7 +12,7 @@ int main(){
             printf("You stopped me immediately");
             break;
         }
-
+ 
 
     }
     if(i == 21){
