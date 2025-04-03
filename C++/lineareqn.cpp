@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int main(void) {
-    float a, b;
+    float a, b; 
     cout<<"a = "; 
     cin>>a;
     cout<<"b = ";
