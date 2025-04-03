@@ -5,7 +5,7 @@ int main(void) {
     cout<<"a = "; 
     cin>>a;
     cout<<"b = ";
-    cin>>b; 
+    cin>>b;  
     if(a==0)
         if(b==0)
             cout<<"Identity Equation";
