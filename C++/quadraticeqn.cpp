@@ -5,7 +5,7 @@ using namespace std;
 void linear(float a, float b) {
     if (a == 0) { 
         if (b == 0)
-            cout << "Identity Equation" << endl; 
+            cout << "Identity Equation" << endl;  
         else
             cout << "Contradictory Equation" << endl;
     } else {
